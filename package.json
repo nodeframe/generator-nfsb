@@ -1,0 +1,24 @@
+{
+  "name": "generator-nfsb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "app"
+  ],
+  "author": "Thakerng Soimadee <southbridge_855@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "github": "^2.2.0",
+    "lodash": "^4.13.1",
+    "mkdirp": "^0.5.1",
+    "nodegit": "^0.14.1",
+    "path": "^0.12.7",
+    "util": "^0.10.3",
+    "yeoman-generator": "^0.24.1"
+  }
+}
