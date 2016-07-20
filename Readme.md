@@ -3,4 +3,4 @@
 ## Getting Started
 
 * Install: `npm install -g generator-nfsb`
-* Run: `yo nfs-boilerplate
+* Run: `yo nfs-boilerplate`
