@@ -1,6 +1,6 @@
 {
   "name": "generator-nfsb",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "Boilerplate Generator for internal development team",
   "main": "lib/index.js",
   "scripts": {
