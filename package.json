@@ -1,10 +1,10 @@
 {
   "name": "generator-nfsb",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "description": "Boilerplate Generator for internal development team",
-  "main": "lib/app/index.js",
+  "main": "app/index.js",
   "scripts": {
-    "build": "rm -rf lib/** && node_modules/.bin/babel src/ -d lib -s",
+    "build": "rm -rf lib/** && node_modules/.bin/babel src/ -d app -s",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "files": [
